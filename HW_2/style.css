@@ -2,15 +2,18 @@ h1{
     font-family: 'Sunday';
     color: blue;
 }
+
 h2{
     font-family: 'Sunday';
     color: black
 }
-.end{
-    color: red;
-}
-p, ul, ol{
-    font-family: 'Caviar Dreams';
+
+.end{ color: red; }
+p, ul, ol{ font-family: 'Caviar Dreams'; }
+
+.must_do{
+    color: green;
+    font-weight: 900;
 }
 
 @font-face {
